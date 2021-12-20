@@ -27,11 +27,11 @@
 #define INTERVAL 10.0
 
 //PID Parameters
-#define _KI 0.001
+#define _KI 0.003
 #define _KP 1.0
-#define _KD 49
+#define _KD 54
 
-#define a 89
+#define a 80
 #define b 289
 
 //////////////////////
